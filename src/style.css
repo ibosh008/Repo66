@@ -1,0 +1,6 @@
+.img{
+  background-image: url(./Frame\ \(26\).png);
+  width: 900px;
+  background-attachment: fixed;
+  background-size: cover;
+}
